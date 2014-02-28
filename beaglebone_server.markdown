@@ -1,6 +1,12 @@
 # Beaglebone Server
 
-Thoughts about services to Install. *Wicked*
+## Operating system
+
+### Debian
+
+[Debian website](http://www.debian.org/)
+
+[Securing Debian manual](http://www.debian.org/doc/manuals/securing-debian-howto/index.en.html)
 
 ## E-Mail
 
