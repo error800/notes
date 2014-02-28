@@ -1,5 +1,17 @@
 # Beaglebone Server
 
+[Beagleboard website](http://beagleboard.org/)
+
+[Getting started](http://beagleboard.org/Getting%20Started)
+
+[Beaglebone Black wiki](http://elinux.org/Beagleboard:BeagleBoneBlack)
+
+[Beaglebone Black on Debian](http://elinux.org/BeagleBoardDebian)
+
+[Debian wiki: Beaglebone](https://wiki.debian.org/InstallingDebianOn/TI/BeagleBone)
+
+[Beagleboard projects](http://beagleboard.org/project)
+
 ## Operating system
 
 ### Debian
