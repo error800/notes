@@ -1,6 +1,6 @@
 # Beaglebone Server
 
-Thoughts about services to Install.
+Thoughts about services to Install. *Wicked*
 
 ## E-Mail
 
