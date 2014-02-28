@@ -1,26 +1,45 @@
 # Beaglebone Server
+
 ## E-Mail
+
 ### Dovecot
+
 [Dovecot website](http://www.dovecot.org/)
+
 [Dovecot wiki](http://wiki2.dovecot.org/)
+
 [Arch wiki article](https://wiki.archlinux.org/index.php/dovecot)
+
 [Debian package](https://packages.debian.org/wheezy/dovecot-core)
 
 ### Postfix
+
 [Postfix website](http://www.postfix.org/)
+
 [Postfix documentation](http://www.postfix.org/documentation.html)
+
 [Arch wiki article](https://wiki.archlinux.org/index.php/postfix)
+
 [Arch wiki install guide](https://wiki.archlinux.org/index.php/SOHO_Postfix)
+
 [Debian package](https://packages.debian.org/wheezy/postfix)
 
 ## IRC
+
 ### IRCD-Hybrid
+
 [IRCD-Hybrid website](http://www.ircd-hybrid.org/)
+
 [Debian package](https://packages.debian.org/wheezy/ircd-hybrid)
 
 ## XMPP
+
 ### Prosody
+
 [Prosody website](http://prosody.im/)
+
 [Prosody documentation](http://prosody.im/doc)
+
 [Arch wiki article](https://wiki.archlinux.org/index.php/prosody)
+
 [Debian package](https://packages.debian.org/wheezy/prosody)
