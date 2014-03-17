@@ -1,7 +1,10 @@
 # Bike
 
 - [Instructables Article](http://www.instructables.com/id/Battery-Powered-Mobile-Party-Sound-Systems/)
+- [Instructables Article 2](http://www.instructables.com/id/Bike-Party-Sound-Trailer/)
+- [Instructables Article 3](http://www.instructables.com/id/How-to-make-a-trailer-mounted-bike-sound-system/)
 - [Random Blog post](http://momentummag.com/columns/diy/diy-off-the-grid-sound-systems/)
+- [12V bicycle sound system workshop](https://archive.org/details/12vsoundsys)
 
 ## Mechanical
 
