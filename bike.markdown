@@ -82,7 +82,9 @@
 
 - [Bike powered electricity generators](http://www.lowtechmagazine.com/2011/05/bike-powered-electricity-generators.html)
 - [Pedal power](http://www.thebackshed.com/Windmill/articles/PedalPower.asp)
+- [Stationary bike generator from washing machine](http://www.instructables.com/id/Stationary-Bike-Generator-from-Washing-Machine/)
 - [Single bike generator](http://www.magnificentrevolution.org/diy/single-bike-generator/)
+- [how to make a cycle powered generator](http://www.stewardwood.org/resources/DIYcyclepower.htm)
 
 ### Sound sources
 
