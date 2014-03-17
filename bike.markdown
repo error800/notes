@@ -30,6 +30,7 @@
 ##### Misc
 
 - [Speakerplans 12V system forum](http://forum.speakerplans.com/12v-powered-systems_forum5.html)
+- [Free Speakerplans](http://www.freespeakerplans.com/plans)
 
 #### Buy
 
