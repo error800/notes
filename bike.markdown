@@ -79,6 +79,10 @@
 
 #### Electric generator
 
+- [Bike powered electricity generators](http://www.lowtechmagazine.com/2011/05/bike-powered-electricity-generators.html)
+- [Pedal power](http://www.thebackshed.com/Windmill/articles/PedalPower.asp)
+- [Single bike generator](http://www.magnificentrevolution.org/diy/single-bike-generator/)
+
 ### Sound sources
 
 - Mp3 player
