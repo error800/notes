@@ -5,6 +5,7 @@
 - [Instructables Article 3](http://www.instructables.com/id/How-to-make-a-trailer-mounted-bike-sound-system/)
 - [Random Blog post](http://momentummag.com/columns/diy/diy-off-the-grid-sound-systems/)
 - [12V bicycle sound system workshop](https://archive.org/details/12vsoundsys)
+- [How to make a pedal powered sound system](http://carbusters.org/2009/12/01/how-to-make-a-pedal-powered-sound-system/)
 
 ## Mechanical
 
