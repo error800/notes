@@ -9,9 +9,16 @@
 
 ## Mechanical
 
+- Bike or bike trailer? (size, parking space, price, use without bike)
+
 ### Bike
 
 - [Marktplaats section](http://www.marktplaats.nl/z/fietsen-en-brommers/fietsen-bakfietsen.html?categoryId=446)
+
+### Bike trailer
+
+- 2 wheels/4 wheels? Stand?
+- [Marktplaats section](http://www.marktplaats.nl/z/fietsen-en-brommers/fietsaccessoires-aanhangers-en-karren.html?categoryId=450)
 
 ## Electronics
 
