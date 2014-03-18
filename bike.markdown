@@ -23,7 +23,7 @@
 
 ### Speakers
 
-- DIY or buy?
+- DIY or ~~buy?~~ die!
 
 #### DIY
 
@@ -38,45 +38,15 @@
 - [Speakerplans 12V system forum](http://forum.speakerplans.com/12v-powered-systems_forum5.html)
 - [Free Speakerplans](http://www.freespeakerplans.com/plans)
 
-#### Buy
-
-
 ### Power
 
 #### Batteries
 
-##### SLA
-
-- Pro:
-  - Cheap
-  - Trickle charge
-- Con:
-  - Heavy
-  - Slow recharge time
-  - Low cycle life
-
-##### LiPo
-
-- Pro:
-  - Ligther
-  - Compact size
-  - Faster recharge time
-  - Higher cycle life
-- Con:
-  - No trickle charge
-  - Expensive
-
-##### LiFePo4
-
-- Pro:
-  - Lighter
-  - Compact size
-  - Even faster recharge time
-  - Longer cycle life
-  - Can be trickle charged
-  - Very safe
-- Con:
-  - Expensive
+Type   |Price|Weight|Charge time|Cycle life|Trickle charge
+-------|-----|------|-----------|----------|--------------
+SLA    |++   |--    |-          |-         |+
+LiPo   |-    |++    |+          |+         |x
+LiFePo4|--   |++    |++         |++        |+
 
 #### Solar panel
 
