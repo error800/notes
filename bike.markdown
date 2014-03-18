@@ -18,6 +18,10 @@
 ### Bike trailer
 
 - 2 wheels/4 wheels? Stand?
+- [DIY bike trailers and load carrying bikes](http://www.chiark.greenend.org.uk/~armb/cycling/trailer.html)
+- [How to build a bike trailer](http://www.instructables.com/id/How-to-Build-a-Bike-Trailer/)
+- [Build a bicycle trailer](http://www.motherearthnews.com/diy/bicycle-trailer-zmaz81jazraw.aspx)
+- [Build a bicycle cargo trailer](http://www.wikihow.com/Build-a-Bicycle-Cargo-Trailer)
 - [Marktplaats section](http://www.marktplaats.nl/z/fietsen-en-brommers/fietsaccessoires-aanhangers-en-karren.html?categoryId=450)
 
 ## Electronics
