@@ -34,7 +34,8 @@
 
 ### Speakers
 
-- DIY or ~~buy?~~ die!
+- ~~DIY or buy?~~
+- DIY or die!
 
 #### DIY
 
@@ -43,6 +44,7 @@
 - [Original Thread](http://www.diyaudio.com/forums/class-d/104402-boominator-another-stab-ultimate-party-machine.html)
 - [Wiki](http://boominator.dk/index.php/Main_Page)
 - [Pictures](http://imgur.com/a/bbRhJ)
+- [Speaker source](http://www.bluearan.co.uk/index.php?search=boominator&x=-871&y=-102&stk=Any+Stock+Availability&perp=10)
 
 ##### Misc
 
