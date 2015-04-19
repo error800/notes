@@ -3,7 +3,6 @@
 - [Instructables Article](http://www.instructables.com/id/Battery-Powered-Mobile-Party-Sound-Systems/)
 - [Instructables Article 2](http://www.instructables.com/id/Bike-Party-Sound-Trailer/)
 - [Instructables Article 3](http://www.instructables.com/id/How-to-make-a-trailer-mounted-bike-sound-system/)
-- [Random Blog post](http://momentummag.com/columns/diy/diy-off-the-grid-sound-systems/)
 - [12V bicycle sound system workshop](https://archive.org/details/12vsoundsys)
 - [How to make a pedal powered sound system](http://carbusters.org/2009/12/01/how-to-make-a-pedal-powered-sound-system/)
 - [Video - Partyanhänger fürs Fahrrad](http://www.youtube.com/watch?v=FHgr8INmSSs)
@@ -18,7 +17,7 @@
 
 ### Bike trailer
 
-- 2 wheels/4 wheels? Stand?
+- 2 wheels/4 wheels? Stand(s)? Stackable design?
 - [DIY bike trailers and load carrying bikes](http://www.chiark.greenend.org.uk/~armb/cycling/trailer.html)
 - [How to build a bike trailer](http://www.instructables.com/id/How-to-Build-a-Bike-Trailer/)
 - [Build a bicycle trailer](http://www.motherearthnews.com/diy/bicycle-trailer-zmaz81jazraw.aspx)
@@ -31,7 +30,9 @@
 
 - Class D Tripath Amp
 - 12V or 24V?
-- [Amp DIY kits](http://shop.41hz.com/shop/)
+- [41hz amp DIY kits](http://shop.41hz.com/) (2015-04-19: site down)
+- [HifimeDIY amp DIY kits](http://hifimediy.com/)
+
 
 ### Speakers
 
@@ -45,7 +46,9 @@
 - [Original Thread](http://www.diyaudio.com/forums/class-d/104402-boominator-another-stab-ultimate-party-machine.html)
 - [Wiki](http://boominator.dk/index.php/Main_Page)
 - [Pictures](http://imgur.com/a/bbRhJ)
-- [Speaker source](http://www.bluearan.co.uk/index.php?search=boominator&x=-871&y=-102&stk=Any+Stock+Availability&perp=10)
+- [Speaker source: Blue Aran](http://www.bluearan.co.uk/index.php?search=boominator&x=-871&y=-102&stk=Any+Stock+Availability&perp=10)
+- [Speaker source: Accusafe](http://store.accusafe.nl/complete-sets/boominator-sets/boominator-speakerpack-piezo-419)
+- Piezos/tweeters/horns? (passive filter for tweeters - see electronics dir)
 
 ##### Misc
 
