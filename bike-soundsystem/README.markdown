@@ -47,7 +47,7 @@
 - [Wiki](http://boominator.dk/index.php/Main_Page)
 - [Pictures](http://imgur.com/a/bbRhJ)
 - [Speaker source: Blue Aran](http://www.bluearan.co.uk/index.php?search=boominator&x=-871&y=-102&stk=Any+Stock+Availability&perp=10)
-- [Speaker source: Accusafe](http://store.accusafe.nl/complete-sets/boominator-sets/boominator-speakerpack-piezo-419)
+- [Speaker source: Accusafe](http://store.accusafe.nl/complete-sets/boominator-sets)
 - Piezos/tweeters/horns? (passive filter for tweeters - see electronics dir)
 
 ##### Misc
