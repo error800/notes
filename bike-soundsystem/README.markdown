@@ -49,7 +49,10 @@
 - [Pictures](http://imgur.com/a/bbRhJ)
 - [Speaker source: Blue Aran](http://www.bluearan.co.uk/index.php?search=boominator&x=-871&y=-102&stk=Any+Stock+Availability&perp=10)
 - [Speaker source: Accusafe](http://store.accusafe.nl/complete-sets/boominator-sets)
-- Piezos/tweeters/horns? (passive filter for tweeters - see electronics dir)
+- [Amp (4Ohm speakers)](http://hifimediy.com/amplifiers/diy-amplifiers?product_id=175)
+- [Amp (8Ohm speakers)](http://hifimediy.com/amplifiers/diy-amplifiers/T1-no-vol-pot)
+- [MiniDSP for crossover](http://www.minidsp.com/products/minidspkits/2-x-in-4-x-out)
+- Piezos/tweeters/horns? (passive filter for tweeters/horns - see electronics dir)
 
 ##### Misc
 
