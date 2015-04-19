@@ -44,6 +44,7 @@
 ##### Boominator
 
 - [Original Thread](http://www.diyaudio.com/forums/class-d/104402-boominator-another-stab-ultimate-party-machine.html)
+- [3D Model](https://3dwarehouse.sketchup.com/model.html?id=ed70429792f0ff9d421ffb972735edc)
 - [Wiki](http://boominator.dk/index.php/Main_Page)
 - [Pictures](http://imgur.com/a/bbRhJ)
 - [Speaker source: Blue Aran](http://www.bluearan.co.uk/index.php?search=boominator&x=-871&y=-102&stk=Any+Stock+Availability&perp=10)
